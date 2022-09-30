@@ -19,6 +19,6 @@
 REACT_APP_API_KEY_TRANSLATE=YOUR API KEY
 
 
-
+<br> <br>
 
 Don´t forget to include it in .gitignore
