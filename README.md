@@ -16,6 +16,6 @@
 
 .env
 
-REACT_APP_API_KEY_TRANSLATE=<YOUR API KEY>
+REACT_APP_API_KEY_TRANSLATE=YOUR API KEY
 
 Don´t forget to include it in .gitignore
