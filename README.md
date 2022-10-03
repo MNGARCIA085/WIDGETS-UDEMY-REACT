@@ -1,18 +1,30 @@
 # WIDGETS-UDEMY-REACT
 
-## Steps to use the app:
 
-### 0. Get an API KEY to use the Google Translate service
+## 1. Description
 
-### 1. Clone the repo
+Widget application that includes multiple components. <br>
+The components are:
+
+- An Accordion component
+- A Wikipedia API search component
+- A Dropdown item selection component
+- A Google Translate API component
+
+
+## 2. Steps to use the app:
+
+### 2.1. Get an API KEY to use the Google Translate service
+
+### 2.2. Clone the repo
 
 ...$ git clone https://github.com/MNGARCIA085/WIDGETS-UDEMY-REACT.git
 
-### 2. Install the dependencies
+### 2.3. Install the dependencies
 
 ...$ npm install
 
-### 2. Create a .env file with the following content
+### 2.4. Create a .env file with the following content
 
 .env
 
